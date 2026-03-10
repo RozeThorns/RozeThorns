@@ -1,5 +1,14 @@
 <div align="center">
 
+<details>
+<summary><b>⚠️ I AM NOT RUSSIAN ⚠️</b></summary>
+I shouldn't even have to put this on my readme but here we are everyone  
+  
+I have no clue who these russian githubs people think is me are but it IS NOT ME  
+I don't even know any russian so I don't even know how yall think this  
+Everything I create is linked to this account in some way, it should literally be obvious  
+</details>
+
 <img src="./Loonz.png" width="100%" />
 
 # 👋 LoonieLoonz

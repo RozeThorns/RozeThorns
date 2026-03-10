@@ -143,11 +143,6 @@ Supports Windows & Linux.
 
 ---
 
-## 📊 Live TF2 Server Stats
-*(Live analytics available via my website — link coming soon.)*
-
----
-
 ## 🤝 Connect With Me
 
 <a href="https://youtube.com/@LoonieLoonz">

@@ -11,7 +11,7 @@ Everything I create is linked to this account in some way, it should literally b
 
 <img src="./Loonz.png" width="100%" />
 
-# 👋 LoonieLoonz
+# 👋 Roze Thorns
 > Software Developer & Linux Enthusiast  
 > Building game tooling, automation, and community infrastructure
 
@@ -143,21 +143,21 @@ Supports Windows & Linux.
 
 ## 📊 GitHub Activity
 
-<img src="https://statsrepo.vercel.app/api?username=LoonieLoonz&show_icons=true&theme=transparent" height="165"/>
-<img src="https://statsrepo.vercel.app/api/top-langs/?username=LoonieLoonz&layout=compact&theme=transparent" height="165"/>
+<img src="https://statsrepo.vercel.app/api?username=RozeThorns&show_icons=true&theme=transparent" height="165"/>
+<img src="https://statsrepo.vercel.app/api/top-langs/?username=RozeThorns&layout=compact&theme=transparent" height="165"/>
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LoonieLoonz&theme=github-compact&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RozeThorns&theme=github-compact&hide_border=true" width="95%"/>
 
 ---
 
 ## 🤝 Connect With Me
 
-<a href="https://youtube.com/@LoonieLoonz">
+<a href="https://youtube.com/@RozeThorns">
 <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
 </a>
-<a href="https://patreon.com/LoonieLoonz">
+<a href="https://patreon.com/RozeThorns">
 <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&color=F96854&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
@@ -165,12 +165,12 @@ Supports Windows & Linux.
 
 ## 📬 Contact
 
-📧 **loonz@arch-linux.pro**
+📧 **roze@arch-linux.pro**
 
 ---
 
-<img src="https://raw.githubusercontent.com/LoonieLoonz/LoonieLoonz/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/RozeThorns/RozeThorns/output/snake.svg"/>
 
-<img src="https://count.getloli.com/@LoonieLoonz?name=LoonieLoonz&theme=booru-touhoulat&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+<img src="https://count.getloli.com/@RozeThorns?name=RozeThorns&theme=booru-touhoulat&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 
 </div>
